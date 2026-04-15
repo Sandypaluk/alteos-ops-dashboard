@@ -117,4 +117,4 @@ The design reflects the core belief behind the job description: that operational
 
 ---
 
-*Built by Sandra K. Paluku — [LinkedIn](https://www.linkedin.com/in/sk-paluku) · [GitHub](https://github.com/Sandypaluk)*
+*Built by Sandra K. Paluku — [LinkedIn](https://www.linkedin.com/in/sk-paluku) 
